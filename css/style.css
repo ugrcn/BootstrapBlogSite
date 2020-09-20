@@ -1,0 +1,26 @@
+.foto{
+	width: 75%;
+	height: 320px;
+	padding:8px; 
+}
+
+.fotoimaj{
+	border: 2px solid black;
+	border-radius: 15px;
+}
+
+.album{
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+.titlekutu{
+	padding:15px;  
+	border: 1px solid black;
+}
+
+body{
+	font-family: 'Cinzel', serif;
+	font-family: 'Kufam', cursive;
+}
